@@ -15,7 +15,7 @@ Role Variables
 
 | Name           | Default Value | Description                        |
 | -------------- | ------------- | -----------------------------------|
-| vector_version | 0.41.1 | Верси vector |
+| vector_version | 0.41.1 | Версия vector |
 
 Dependencies
 ------------
@@ -40,5 +40,3 @@ Author Information
 ------------------
 
 Mishanin Aleksandr
-
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
